@@ -1,0 +1,110 @@
+[
+    {
+        "speed_kph": 784,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 6,
+        "price_per_km": 29,
+        "extraFuelCharge": 0.54,
+        "maxTakeOffAlt": 3531,
+        "img":"https://airandspace.si.edu/sites/default/files/images/6648h.jpg"
+    },
+    {
+        "speed_kph": 495,
+        "type_of_plane": "Boeing 787",
+        "seats_remaining": 16,
+        "price_per_km": 13,
+        "extraFuelCharge": 2.21,
+        "maxTakeOffAlt": 3572,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Boeing_787_Dreamliner_N787BX.jpg"
+    },
+    {
+        "speed_kph": 555,
+        "type_of_plane": "Airbus A350",
+        "seats_remaining": 20,
+        "price_per_km": 20,
+        "extraFuelCharge": 5.65,
+        "maxTakeOffAlt": 3432,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/F-WWCF_A350_LBG_SIAE_2015_(18953559366).jpg/1200px-F-WWCF_A350_LBG_SIAE_2015_(18953559366).jpg"
+    },
+    {
+        "speed_kph": 541,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 5,
+        "price_per_km": 10,
+        "extraFuelCharge": 4.03,
+        "maxTakeOffAlt": 4909,
+        "img": "https://imgproc.airliners.net/photos/airliners/7/7/0/5632077.jpg?v=v4dd6ddba473"
+    },
+    {
+        "speed_kph": 439,
+        "type_of_plane": "Boeing 787",
+        "seats_remaining": 4,
+        "price_per_km": 29,
+        "extraFuelCharge": 5.15,
+        "maxTakeOffAlt": 5409,
+        "img": "https://images.squarespace-cdn.com/content/v1/5df7cb8bf05bdf5ba3b3ab0c/1588887794314-IYW7HWIXS72I9LJKFW1O/ke17ZwdGBToddI8pDm48kBWG91Y63LpgmVDoPQi9qjF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYUDXELmji3qKhMWKUzC2PJB4omzbsJd1nvLh1r0b2QgItSUefHomSqcdhqblM-r5w/BI47260%2Bcopy.jpg"
+    },
+    {
+        "speed_kph": 529,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 17,
+        "price_per_km": 15,
+        "extraFuelCharge": 8.32,
+        "maxTakeOffAlt": 8106,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/Delta_Air_Lines%2C_Boeing_777-200%2C_N704DK_-_NRT.jpg"
+    },
+    {
+        "speed_kph": 840,
+        "type_of_plane": "Airbus A330",
+        "seats_remaining": 2,
+        "price_per_km": 26,
+        "extraFuelCharge": 6.09,
+        "maxTakeOffAlt": 5779,
+        "img": "https://i0.wp.com/mondortiz.com/wp-content/uploads/2023/02/Mond-Ortiz-Website-Photo-No-Watermark-B-87.jpg?fit=1200%2C675&ssl=1"
+    },
+    {
+        "speed_kph": 530,
+        "type_of_plane": "Airbus A350",
+        "seats_remaining": 8,
+        "price_per_km": 24,
+        "extraFuelCharge": 2.22,
+        "maxTakeOffAlt": 15000,
+        "img": "https://th.bing.com/th/id/R.5de1418fa78e571959485127b3cdbdec?rik=T04old5wbyhuQg&pid=ImgRaw&r=0"
+    },
+    {
+        "speed_kph": 593,
+        "type_of_plane": "Airbus A330",
+        "seats_remaining": 14,
+        "price_per_km": 28,
+        "extraFuelCharge": 2.06,
+        "maxTakeOffAlt": 15000,
+        "img": "https://1.bp.blogspot.com/-gGhiENk4-x4/WQgO_O846GI/AAAAAAAABNc/YcxlF9vAofozdROH0SltPmDLfPJ1du5PgCLcB/s1600/aer_lingus_a330-300_touch_down.jpg"
+    },
+    {
+        "speed_kph": 762,
+        "type_of_plane": "Boeing 777",
+        "seats_remaining": 15,
+        "price_per_km": 17,
+        "extraFuelCharge": 6.4,
+        "maxTakeOffAlt": 4189,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Air_Canada_Boeing_777-200LR_Toronto_takeoff.jpg"
+    },
+    {
+        "speed_kph": 516,
+        "type_of_plane": "Boeing 787",
+        "seats_remaining": 17,
+        "price_per_km": 14,
+        "extraFuelCharge": 0.83,
+        "maxTakeOffAlt": 7618,
+        "img": "https://th.bing.com/th/id/R.ad9aa77e17e23b24e0f4eb39c6f66cd5?rik=4NoJ5%2biO8vJPHw&pid=ImgRaw&r=0"
+    },
+    {
+        "speed_kph": 491,
+        "type_of_plane": "Boeing 737",
+        "seats_remaining": 17,
+        "price_per_km": 30,
+        "extraFuelCharge": 0.13,
+        "maxTakeOffAlt": 3562,
+        "img": "https://www.airlineratings.com/wp-content/uploads/uploads/737.jpg"
+    }
+]

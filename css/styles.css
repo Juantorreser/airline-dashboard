@@ -1,0 +1,91 @@
+:root{
+    --primary-color: #ff2554;
+    --secondary-color: #ffeced;
+    --tertiary-color: #0d003a;
+    --font-family: "poppins";
+}
+
+/*Set Body Style*/
+body{
+    background-color: white;
+    font-family: var(--font-family);
+}
+
+/*Override bootstrap colors*/
+.bg-primary{
+    background-color: var(--primary-color)!important;
+    color: var(--secondary-color);
+}
+
+.bg-secondary{
+    background-color: var(--secondary-color)!important;
+}
+
+.bg-body-tertiary{
+    background-color: var(--tertiary-color)!important;
+}
+
+.text-white{
+    color: var(--secondary-color)!important;
+}
+
+.text-black{
+    color: var(--tertiary-color)!important;
+}
+
+.btn.disabled, .btn:disabled, fieldset:disabled .btn{
+    background-color: #6a6a6a!important;
+    color: #c1c1c1!important;
+}
+
+/*Cart Icon*/
+#cartIcon{
+    width:2rem;
+}
+
+/*MAP SECTION*/
+#mapSection{
+    background-image: url(../images/Hero.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#mapSection .container{
+    background-color: rgba(255,255,255,75%);
+}
+
+/*MAP*/
+#map{
+    height: 400px;
+    max-width: 80%;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background-color: var(--primary-color) !important;
+    opacity: 90%;
+    color: white;
+}
+
+/*Change Display buttons*/
+.displayFilterLeft{
+    border-radius: 15px 0 0 15px;
+    background-color: white;
+    border: 1px solid #737373;
+}
+
+.displayFilterRight{
+    border-radius: 0 15px 15px 0;
+    background-color: white;
+    border: 1px solid #737373;
+}
+
+.activeDisplay{
+    background-color: #9e9e9e;
+    color: white;
+}
+
+
+/*Cart*/
+#cartItems button:hover{
+    background-color: var(--primary-color);
+}
